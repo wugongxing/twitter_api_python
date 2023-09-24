@@ -197,6 +197,7 @@ class TweetPost(object):
 
 
 if __name__ == '__main__':
+  # https://developer.twitter.com/en/portal/dashboard
   API_KEY = 'API_KEY1111'  #tweety  CONSUMER_KEY
   API_SECRET = 'API_SECRET2222'  #tweety  CONSUMER_SECRET
   ACCESS_TOKEN = 'ACCESS_TOKEN3333'
